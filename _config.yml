@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "josh"
   avatar           : "/assets/images/profile-1.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "I am an **amazing** person."
+  bio              : "I'm a lazy developer" # "I am an **amazing** person."
   location         : "Seoul"
   email            :
   links:
